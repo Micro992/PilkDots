@@ -1,9 +1,8 @@
 # PilkDrinkers dotfiles
-These are my current hyprland dotfiles.
+These are my current dotfiles.
+A very minimalistic and clean look for hyprland.
 
-
-
-A lot of these configs are made by other people in the community which I have alterted to my own way.
+Most of these configs were made by other people in the community and then alterted by me.
 Most of the heavy work was made by [ML4W](https://github.com/mylinuxforwork)
 
 
